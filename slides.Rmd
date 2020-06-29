@@ -1,0 +1,83 @@
+---
+title: "Teaching Focused Careers in Colleges, Universities, and Industry"
+subtitle: 
+author: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(collapse=TRUE, prompt=TRUE, comment=NULL, message = FALSE, warning = FALSE, dev = 'svg')
+```
+
+### Abstract
+
+Many graduate students are the product of research universities, where they learn a lot about research—but little about teaching. This is a shame because teaching is a fulfilling career path for statisticians, one that comes with its own rewards, challenges, and rewarding challenges. It is time to bring teaching focused careers to light, and this panel will do just that. You’ll learn about the day-to-day life of teachers, the job expectations they face, and the career paths that have led our panelists to careers in research universities, liberal arts colleges, and industry. We will share our experiences on how to find a teaching job, navigate the recruitment process, network, earn promotions, and—above all else—how to prepare yourself to be a good teacher.
+
+
+---
+
+### Your Career Timeline
+How/why did you come to the current place in your career?
+
+
+---
+
+### Your Organization/Institution
+Location
+Size
+Relevant Demographics
+Type of Organization (R1, SLAC, Corporation)
+
+
+---
+
+### People
+People you work with 
+Students/Learners
+Are you the only statistician/educator or one of the few?
+
+
+---
+
+
+### Typical Work Week 
+How many hours teaching?
+How many hours are you preparing to teach?
+How many hours are you in meetings?
+
+
+---
+
+
+### Work Expectations & Promotion
+Teaching Load
+Courses/Workshops Taught 
+Research ?
+What is the promotion timeline/requirements for your job?
+
+
+---
+
+
+### Rewards & Challenges
+What are the rewarding aspects of your specific job
+What are the challenges of your specific job
+What are the rewarding challenges of your job
+
+
+---
+
+
+### What would hiring for your job look like today?
+Interviews
+Job application portfolio 
+Any tips for job candidates
+eady
