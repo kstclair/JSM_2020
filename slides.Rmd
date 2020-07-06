@@ -36,13 +36,89 @@ Size
 Relevant Demographics
 Type of Organization (R1, SLAC, Corporation)
 
+---
+background-image: url(images/lakes.jpg)
+
+---
+
+### Carleton College
+
+.left-column[
+<img src = "images/seal.png">
+]
+
+.right-column[
+- Liberal Arts College 
+
+-  2,000 undergrads from around the US and abroad
+
+- student-to-faculty ratio of 9:1
+  
+- in Stats: class sizes between 20-35
+  
+- Northfield, MN
+  - 45 minutes south of MSP
+
+]
+
+---
+
+### [Carleton College Department of Mathematics and Statistics](https://www.carleton.edu/math/)
+
+.left-column[
+<img src = "images/seal.png">
+]
+
+.right-column[
+- Faculty: 
+  - 4 statisticians
+  - 9 mathematicians
+  - 1 continuing faculty and 3-4 visitors/year
+  
+- I am the first statistician to be Chair!
+
+- Two majors: 
+  - Statistics: 39 juniors/seniors
+  - Mathematics: 88 juniors/seniors
+
+- Separate Computer Science department
+  - 8-10 faculty
+  - 114 CS junior/senior majors
+
+]
+
+---
+### Stats curriculum
+
+
+- Intro Stats: Lock$^5$-level
+  - service course
+  - not required for the major but we can still get majors from this course
+
+
+- Core Courses: Probability and Intro to Inference (Math/Stat)
+  - again, popular among non-majors!
+
+- "Second" Course: Applied Regression  or Data Science 
+  - both extremely popular among non-majors
+  - often/always overenrolled
+
+- Advanced electives:
+  -  Bayesian Stats, Advanced Modeling, Intro to Sampling, Time Series
+
+- Statistical Consulting
+  - meets once a week, students work in teams on community-based projects
 
 ---
 
 ### People
 People you work with 
+
+- QRC, Math Skills Center
+
 Students/Learners
 Are you the only statistician/educator or one of the few?
+
 
 
 ---
@@ -52,6 +128,18 @@ Are you the only statistician/educator or one of the few?
 How many hours teaching?
 How many hours are you preparing to teach?
 How many hours are you in meetings?
+
+- 5 courses/year
+  - three 9.5-week terms
+  - usually, 2 Intro courses and 3 non-Intro
+
+
+- Typical course
+  - Meeting times: MW 70 minutes and F 60 minutes
+  - 
+
+- 
+
 
 
 ---
@@ -70,6 +158,10 @@ What is the promotion timeline/requirements for your job?
 ### Rewards & Challenges
 What are the rewarding aspects of your specific job
 What are the challenges of your specific job
+
+- Everyone wants to analyze data, boundaries
+- don't want to be the "stat cop", balance between encouraging other to learn more stats/data science and making sure they understand their (technical/conceptual) limitations
+
 What are the rewarding challenges of your job
 
 
