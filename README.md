@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Teaching (and more) at a Liberal Arts College
 
-You can use the [editor on GitHub](https://github.com/kstclair/JSM_2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+- [html slides](slides.html)
+- [pdf slides](slides.pdf)
