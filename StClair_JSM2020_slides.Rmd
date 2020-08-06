@@ -136,7 +136,7 @@ background-image: url(images/lakes.jpg)
   
   - engage in social events
   
-<img src = "images/math-stats-tug.jpg" width = 60%>
+<img src = "images/math-stats-tugowar.jpg" width = 60%>
 
 .footnote[Stat vs. Math tug of war]
 
