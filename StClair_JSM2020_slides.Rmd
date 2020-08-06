@@ -515,7 +515,7 @@ What are the rewarding challenges of your job?
 
 - kstclair@carleton.edu
 
-- slides: https://kstclair.github.io/JSM_2020/StClair_JSM2020_slides.pdf
+- slides: https://kstclair.github.io/JSM_2020/
 
 - [https://www.carleton.edu/math/](https://www.carleton.edu/math/)
 
