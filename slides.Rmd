@@ -1,5 +1,5 @@
 ---
-title: "Teaching (and more) at a Liberal Arts College"
+title: "Teaching (and more) at a Small Liberal Arts College"
 subtitle: 
 author: "Katie St. Clair, Carleton College"
 date: "August 6, 2020"
@@ -103,17 +103,23 @@ background-image: url(images/lakes.jpg)
 ]
 
 .right-column[
-### Teaching at a liberal arts college
+### Teaching at a small liberal arts college
 
 - High quality **undergrad** teaching is expected
 
-  - At Carleton, we get strong support from the Administration
+  - at Carleton, we get strong support from our Administration
   
 - Strong students 
 
   - often have broad academic interests
+
+- Across our curriculum we emphasis
   
-  - but math/stat background can vary
+  - critical thinking skills
+  
+  -  communication skills
+  
+  - teamwork and collaboration skills
 
 ]
 
@@ -128,11 +134,9 @@ background-image: url(images/lakes.jpg)
 
   - faculty are accessible to students outside of class
   
-  - help with internship/career/grad school advice, letters of recommendation
-  
   - engage in social events
   
-<img src = "images/math-stats-tug.jpg" width = 50%>
+<img src = "images/math-stats-tug.jpg" width = 60%>
 
 .footnote[Stat vs. Math tug of war]
 
@@ -243,13 +247,15 @@ background-image: url(images/lakes.jpg)
 .right-column[
 ### Research expecations (for tenure)
 
-- Need to demonstrate a commitment to scholarship and intellectual growth
+- At Carleton: 
 
-  - no quota on production
-  
+  - need to demonstrate a commitment to scholarship and intellectual growth
+
   - may also include pedagogy and student research, consulting, package development
   
-  - make sure mathematicians understand what statistics scholarship looks like
+- Expectations vary across colleges
+  
+  - make sure mathematicians in your department understand what statistics/data science scholarship looks like
   
 
 
@@ -275,7 +281,7 @@ background-image: url(images/lakes.jpg)
 - College-wide:
   - faculty meetings
   - committee meetings
-  - student advising: 10-16 advisees
+  - student advising: 12-18 advisees
 
 - "Consulting":
   - advice for students doing comps
@@ -372,7 +378,7 @@ background-image: url(images/lakes.jpg)
 ]
 
 .right-column[
-### Strong applications... 
+### Strong applicants... 
 
 - avoid a generic cover
     - why you want to be at a liberal arts school? 
@@ -389,7 +395,7 @@ background-image: url(images/lakes.jpg)
 ]
 
 .right-column[
-### Strong applications... 
+### Strong applicants... 
 
 
 - have a thoughtful  teaching statement
@@ -410,9 +416,9 @@ background-image: url(images/lakes.jpg)
 ]
 
 .right-column[
-### Strong applications... 
+### Strong applicants... 
 
-- have research statements that addresses both current and future scholarship plans 
+- have a research statement that addresses both current and future scholarship plans 
 
     - how will you stay active if you are an "isolated" statistician?
 
@@ -465,9 +471,11 @@ What are the challenges of your job?
 
 - Being one of a few statisticians in a department
 
-- Everyone wants to fit statistical models and analyze data
+- Finding a balance between 
 
-    - but should they? 
+  - giving "free" help to others on campus
+  
+  - furthering your own scholarly work
 
 
 
@@ -486,7 +494,7 @@ What are the challenges of your job?
 
 What are the rewarding challenges of your job?
 
-- data science.
+- data science!
 
 - how to have productive classroom discussions of ethics in statistics/data science
 
