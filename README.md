@@ -1,4 +1,4 @@
 ## Teaching (and more) at a Liberal Arts College
 
-- [html slides](slides.html)
-- [pdf slides](slides.pdf)
+- [html slides](StClair_JSM2020_slides.html)
+- [pdf slides](StClair_JSM2020_slides.pdf)
